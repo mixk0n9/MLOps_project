@@ -59,7 +59,8 @@ Kaggle의 E-commerce 데이터
 
 ## :chart_with_upwards_trend:분석 과정
 
-<img src="./tri-fusion_images/취업 포트폴리오 최종_12.png" width="800" height="400"/>
+<img src="./MLOps_images/취업 포트폴리오 최종_25.png" width="800" height="400"/>
 
-<img src="./tri-fusion_images/취업 포트폴리오 최종_13.png" width="800" height="400"/>
+<img src="./MLOps_images/취업 포트폴리오 최종_26.png" width="800" height="400"/>
 
+<img src="./MLOps_images/취업 포트폴리오 최종_27.png" width="800" height="400"/>
